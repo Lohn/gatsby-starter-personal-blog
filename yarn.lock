@@ -9696,14 +9696,12 @@ react-scrollbar-size@^2.0.2:
     react-event-listener "^0.5.1"
     stifle "^1.0.2"
 
-react-share@^2.1.0:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/react-share/-/react-share-2.1.0.tgz#5da30477a021a72039f699e3f44b48dadb5cc799"
+react-share@^4.2.1:
+  version "4.2.1"
+  resolved "https://registry.yarnpkg.com/react-share/-/react-share-4.2.1.tgz#e699ec4b102b2544843f3fba0cff26e5827f1819"
   dependencies:
-    babel-runtime "^6.6.1"
     classnames "^2.2.5"
     jsonp "^0.2.1"
-    prop-types "^15.5.8"
 
 react-side-effect@^1.1.0:
   version "1.1.3"
